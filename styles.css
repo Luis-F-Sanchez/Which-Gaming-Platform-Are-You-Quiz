@@ -1,0 +1,116 @@
+body {
+    background-color: lime;
+}
+
+.center {
+    display: flex;
+    justify-content: center;
+}
+
+.simplex {
+    display: flex;
+    justify-content: space-around;
+}
+
+.rating {
+    display: flex;
+    justify-content: space-around;
+
+}
+
+.imp1 {
+    display: flex;
+    justify-content: space-around;
+
+}
+
+.imp2 {
+    display: flex;
+    justify-content: space-around;
+
+}
+
+.custom {
+    display: flex;
+    justify-content: space-around;
+}
+
+.simple {
+    width: 400px;
+    height: 225px;
+}
+
+.complex {
+    width: 400px;
+}
+
+.e4ever {
+    width: 200px;
+    height: 300px;
+
+}
+
+.t4teen {
+    width: 200px;
+    height: 300px;
+}
+
+.m4mat {
+    width: 200px;
+    height: 300px;
+
+}
+
+.comm {
+    width: 350px;
+    height: 210px;
+
+}
+
+.casu {
+    width: 350px;
+    height: 210px;
+
+}
+
+.comp {
+    width: 350px;
+    height: 210px;
+
+}
+
+.qual {
+    width: 350px;
+    height: 210px;
+}
+
+.circle {
+    width: 100px;
+    height: 100px;
+}
+
+.PC {
+    width: 500px;
+
+}
+
+.playstation {
+    width: 500px;
+
+}
+
+.xbox {
+    width: 500px;
+
+}
+
+.nintendo {
+    width: 500px;
+
+}
+
+.count {
+    position: absolute;
+    top: 0%;
+    left: 2%;
+}
